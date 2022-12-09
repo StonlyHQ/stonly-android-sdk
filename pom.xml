@@ -6,4 +6,16 @@
   <artifactId>stonly</artifactId>
   <version>0.1.0</version>
   <packaging>aar</packaging>
+  <plugin>
+    <groupId>com.simpligility.maven.plugins</groupId>
+    <artifactId>android-maven-plugin</artifactId>
+    <version>4.1.0</version>
+
+    <extensions>true</extensions>
+    <configuration>
+        <sign>
+            <debug>false</debug>
+        </sign>
+    </configuration>
+</plugin>
 </project>
