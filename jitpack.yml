@@ -1,0 +1,3 @@
+install:
+  - FILE="-Dfile=stonly-android.aar"
+  - mvn install:install-file $FILE -DgroupId=com.stonly.android -DartifactId=test -Dversion=0.1.0 -Dpackaging=aar -DgeneratePom=true
