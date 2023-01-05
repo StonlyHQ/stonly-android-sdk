@@ -9,13 +9,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>0.1.3</version>
+  <version>0.1.4</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>androidx.core</groupId>
       <artifactId>core-ktx</artifactId>
-      <version>1.8.0</version>
+      <version>1.9.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.google.android.material</groupId>
       <artifactId>material</artifactId>
-      <version>1.6.1</version>
+      <version>1.7.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -75,13 +75,13 @@
     <dependency>
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp</artifactId>
-      <version>4.9.2</version>
+      <version>4.10.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>logging-interceptor</artifactId>
-      <version>4.9.2</version>
+      <version>4.10.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -101,6 +101,12 @@
       <artifactId>kotlin-stdlib-jdk8</artifactId>
       <version>1.7.10</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-annotations</artifactId>
+      <version>28.0.0</version>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
