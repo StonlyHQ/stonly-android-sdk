@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>0.1.6</version>
+  <version>0.1.7</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -40,12 +40,6 @@
       <groupId>androidx.lifecycle</groupId>
       <artifactId>lifecycle-extensions</artifactId>
       <version>2.2.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.preference</groupId>
-      <artifactId>preference-ktx</artifactId>
-      <version>1.2.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
