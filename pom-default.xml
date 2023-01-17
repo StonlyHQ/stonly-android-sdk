@@ -9,21 +9,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>0.1.8</version>
+  <version>0.1.9</version>
   <packaging>aar</packaging>
   <dependencies>
-    <dependency>
-      <groupId>androidx.core</groupId>
-      <artifactId>core-ktx</artifactId>
-      <version>1.7.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.4.2</version>
-      <scope>compile</scope>
-    </dependency>
     <dependency>
       <groupId>com.google.android.material</groupId>
       <artifactId>material</artifactId>
@@ -95,6 +83,18 @@
       <artifactId>kotlin-stdlib-jdk8</artifactId>
       <version>1.7.10</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.core</groupId>
+      <artifactId>core-ktx</artifactId>
+      <version>1.7.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.appcompat</groupId>
+      <artifactId>appcompat</artifactId>
+      <version>1.4.2</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
