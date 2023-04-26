@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>0.1.28</version>
+  <version>0.1.29-BETA2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
