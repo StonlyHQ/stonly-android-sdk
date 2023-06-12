@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>0.1.29</version>
+  <version>0.1.30</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -100,6 +100,12 @@
       <groupId>com.android.support</groupId>
       <artifactId>support-annotations</artifactId>
       <version>28.0.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.jakewharton.timber</groupId>
+      <artifactId>timber</artifactId>
+      <version>4.7.1</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
