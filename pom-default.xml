@@ -25,66 +25,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-utils</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-utils-compose</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-data</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-data-compose</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-trigger</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-trigger-compose</artifactId>
-      <version>unspecified</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-widget</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-event</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-event-compose</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-parser</artifactId>
-      <version>0.1.36</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>androidx.navigation</groupId>
       <artifactId>navigation-compose</artifactId>
       <version>2.5.3</version>
