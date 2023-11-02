@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>0.1.34</version>
+  <version>0.1.36</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -27,31 +27,31 @@
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-utils</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-utils-compose</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-data</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-data-compose</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-trigger</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -63,25 +63,25 @@
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-widget</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-event</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-event-compose</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.stonly.android</groupId>
       <artifactId>stonly-parser</artifactId>
-      <version>unspecified</version>
+      <version>0.1.36</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
