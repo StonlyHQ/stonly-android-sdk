@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>1.0.7-BETA1</version>
+  <version>1.0.10-BETA2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -23,6 +23,12 @@
       <artifactId>kotlin-stdlib-jdk8</artifactId>
       <version>1.7.10</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.browser</groupId>
+      <artifactId>browser</artifactId>
+      <version>1.5.0</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>androidx.navigation</groupId>
