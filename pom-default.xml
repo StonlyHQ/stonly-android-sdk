@@ -9,21 +9,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>1.0.18-BETA9</version>
+  <version>1.0.18-BETA10</version>
   <packaging>aar</packaging>
   <dependencies>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-utils</artifactId>
-      <version>1.0.18-BETA9</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.stonly.android</groupId>
-      <artifactId>stonly-extension-compose</artifactId>
-      <version>1.0.18-BETA9</version>
-      <scope>compile</scope>
-    </dependency>
     <dependency>
       <groupId>com.caverock</groupId>
       <artifactId>androidsvg-aar</artifactId>
