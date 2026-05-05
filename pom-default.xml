@@ -9,9 +9,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>1.0.23-BETA2</version>
+  <version>1.0.23-BETA3</version>
   <packaging>aar</packaging>
   <dependencies>
+    <dependency>
+      <groupId>androidx.webkit</groupId>
+      <artifactId>webkit</artifactId>
+      <version>1.7.0</version>
+      <scope>compile</scope>
+    </dependency>
     <dependency>
       <groupId>com.caverock</groupId>
       <artifactId>androidsvg-aar</artifactId>
