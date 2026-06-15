@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.stonly.android</groupId>
   <artifactId>stonly</artifactId>
-  <version>1.0.23-BETA7</version>
+  <version>1.0.23</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -131,6 +131,18 @@
       <artifactId>timber</artifactId>
       <version>5.0.1</version>
       <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.sentry</groupId>
+      <artifactId>sentry</artifactId>
+      <version>7.14.0</version>
+      <scope>runtime</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>org.jetbrains.kotlin</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.squareup.retrofit2</groupId>
